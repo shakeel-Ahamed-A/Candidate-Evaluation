@@ -1,0 +1,783 @@
+{
+  "profile": {
+    "profile_id": "profile-f01a8aee855fabc5d12d",
+    "candidate_name": "Priya Shah",
+    "role_target": "Embedded Systems Engineer",
+    "role_profile": {
+      "title": "Embedded Systems Engineer",
+      "summary": "Build and validate embedded control firmware and digital logic for industrial products.",
+      "required_skills": [
+        "- C/C++ or Python",
+        "- Verilog or SystemVerilog / RTL fundamentals",
+        "- Debugging and test-driven engineering",
+        "- Linux and Git"
+      ],
+      "preferred_skills": [
+        "- MATLAB or LTspice",
+        "- CI/CD and observability tooling"
+      ],
+      "responsibilities": [
+        "- Design and validate digital control logic.",
+        "- Diagnose system failures using structured experiments.",
+        "- Collaborate with firmware, hardware, and test engineers.",
+        "- Document trade-offs and verification evidence."
+      ],
+      "constraints": [
+        "- Must contribute independently within the first 90 days.",
+        "- Role requires evidence of hands-on design depth."
+      ],
+      "evidence": [
+        {
+          "source": "job_description",
+          "section": "Required Skills",
+          "quote": "- C/C++ or Python",
+          "fact_id": "role-required-skills-1"
+        },
+        {
+          "source": "job_description",
+          "section": "Required Skills",
+          "quote": "- Verilog or SystemVerilog / RTL fundamentals",
+          "fact_id": "role-required-skills-2"
+        },
+        {
+          "source": "job_description",
+          "section": "Required Skills",
+          "quote": "- Debugging and test-driven engineering",
+          "fact_id": "role-required-skills-3"
+        },
+        {
+          "source": "job_description",
+          "section": "Required Skills",
+          "quote": "- Linux and Git",
+          "fact_id": "role-required-skills-4"
+        },
+        {
+          "source": "job_description",
+          "section": "Preferred Skills",
+          "quote": "- MATLAB or LTspice",
+          "fact_id": "role-preferred-skills-1"
+        },
+        {
+          "source": "job_description",
+          "section": "Preferred Skills",
+          "quote": "- CI/CD and observability tooling",
+          "fact_id": "role-preferred-skills-2"
+        },
+        {
+          "source": "job_description",
+          "section": "Responsibilities",
+          "quote": "- Design and validate digital control logic.",
+          "fact_id": "role-responsibilities-1"
+        },
+        {
+          "source": "job_description",
+          "section": "Responsibilities",
+          "quote": "- Diagnose system failures using structured experiments.",
+          "fact_id": "role-responsibilities-2"
+        },
+        {
+          "source": "job_description",
+          "section": "Responsibilities",
+          "quote": "- Collaborate with firmware, hardware, and test engineers.",
+          "fact_id": "role-responsibilities-3"
+        },
+        {
+          "source": "job_description",
+          "section": "Responsibilities",
+          "quote": "- Document trade-offs and verification evidence.",
+          "fact_id": "role-responsibilities-4"
+        },
+        {
+          "source": "job_description",
+          "section": "Constraints",
+          "quote": "- Must contribute independently within the first 90 days.",
+          "fact_id": "role-constraints-1"
+        },
+        {
+          "source": "job_description",
+          "section": "Constraints",
+          "quote": "- Role requires evidence of hands-on design depth.",
+          "fact_id": "role-constraints-2"
+        }
+      ]
+    },
+    "source_hashes": [
+      [
+        "resume",
+        "2aa879b9f2dfcd37b247991d0f11f63a82d02982d326e953eeba9c9565b873c6"
+      ],
+      [
+        "interview",
+        "d94e3aab8b4cba8206c71a3693476881f763ce36109cfcabcf50c52994e12028"
+      ],
+      [
+        "job_description",
+        "3a5f3cb239b7d50cae7a9aa53ee65afd2a68d70a7369902fd976749178fa3c66"
+      ]
+    ],
+    "source_lengths": [
+      [
+        "resume",
+        310
+      ],
+      [
+        "interview",
+        395
+      ],
+      [
+        "job_description",
+        683
+      ]
+    ],
+    "source_text": [
+      [
+        "resume",
+        "Priya Shah\nEmbedded Software Engineer\nSkills\nPython - Working\nC - Working\nGit - Working\nExperience\nDelta Automation | Embedded Software Engineer | Jul 2022 | Present\nEducation\nABC University | B.E. | Electrical Engineering | 2022\nCertifications\nLinux Foundation Certified IT Associate (2023) - Linux Foundation"
+      ],
+      [
+        "interview",
+        "Interviewer: What have you built that is relevant to this role?\nCandidate: I mainly supported test execution and wrote small Python scripts for log parsing.\nInterviewer: Have you designed RTL?\nCandidate: I have not designed production RTL yet, but I studied Verilog in college.\nInterviewer: Give an example of impact.\nCandidate: I helped the team save two hours each week by automating a report."
+      ],
+      [
+        "job_description",
+        "Role: Embedded Systems Engineer\nSummary: Build and validate embedded control firmware and digital logic for industrial products.\nRequired Skills\n- C/C++ or Python\n- Verilog or SystemVerilog / RTL fundamentals\n- Debugging and test-driven engineering\n- Linux and Git\nPreferred Skills\n- MATLAB or LTspice\n- CI/CD and observability tooling\nResponsibilities\n- Design and validate digital control logic.\n- Diagnose system failures using structured experiments.\n- Collaborate with firmware, hardware, and test engineers.\n- Document trade-offs and verification evidence.\nConstraints\n- Must contribute independently within the first 90 days.\n- Role requires evidence of hands-on design depth."
+      ]
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "proficiency": "working",
+        "years": null,
+        "evidence": [
+          {
+            "source": "resume",
+            "section": "Skills",
+            "quote": "Python - Working",
+            "fact_id": "skill-1"
+          }
+        ]
+      },
+      {
+        "name": "Verilog",
+        "proficiency": "unknown",
+        "years": null,
+        "evidence": [
+          {
+            "source": "resume",
+            "section": "Skills",
+            "quote": "Verilog",
+            "fact_id": "skill-2"
+          }
+        ]
+      },
+      {
+        "name": "Git",
+        "proficiency": "working",
+        "years": null,
+        "evidence": [
+          {
+            "source": "resume",
+            "section": "Skills",
+            "quote": "Git - Working",
+            "fact_id": "skill-3"
+          }
+        ]
+      },
+      {
+        "name": "C",
+        "proficiency": "working",
+        "years": null,
+        "evidence": [
+          {
+            "source": "resume",
+            "section": "Skills",
+            "quote": "C - Working",
+            "fact_id": "skill-4"
+          }
+        ]
+      },
+      {
+        "name": "Linux",
+        "proficiency": "unknown",
+        "years": null,
+        "evidence": [
+          {
+            "source": "resume",
+            "section": "Skills",
+            "quote": "Linux Foundation Certified IT Associate (2023) - Linux Foundation",
+            "fact_id": "skill-5"
+          }
+        ]
+      },
+      {
+        "name": "RTL",
+        "proficiency": "unknown",
+        "years": null,
+        "evidence": [
+          {
+            "source": "resume",
+            "section": "Skills",
+            "quote": "RTL",
+            "fact_id": "skill-6"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "organization": "Delta Automation",
+        "title": "Embedded Software Engineer",
+        "start": "Jul 2022",
+        "end": "Present",
+        "responsibilities": [],
+        "achievements": [],
+        "evidence": [
+          {
+            "source": "resume",
+            "section": "Experience",
+            "quote": "Delta Automation | Embedded Software Engineer | Jul 2022 | Present",
+            "fact_id": "exp-1"
+          }
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "ABC University",
+        "degree": "B.E.",
+        "field": "Electrical Engineering",
+        "year": 2022,
+        "evidence": [
+          {
+            "source": "resume",
+            "section": "Education",
+            "quote": "ABC University | B.E. | Electrical Engineering | 2022",
+            "fact_id": "edu-1"
+          }
+        ]
+      }
+    ],
+    "claims": [],
+    "certifications": [
+      {
+        "name": "Linux Foundation Certified IT Associate",
+        "issuer": "Linux Foundation",
+        "year": 2023,
+        "evidence": [
+          {
+            "source": "resume",
+            "section": "Certifications",
+            "quote": "Linux Foundation Certified IT Associate (2023) - Linux Foundation",
+            "fact_id": "cert-1"
+          }
+        ]
+      }
+    ],
+    "metrics": []
+  },
+  "independent": [
+    [
+      "technical",
+      {
+        "agent": "technical",
+        "role_fit": 43,
+        "confidence": 0.88,
+        "recommendation": "no_hire",
+        "basis_finding_ids": [
+          "technical-2"
+        ],
+        "findings": [
+          {
+            "finding_id": "technical-1",
+            "type": "strength",
+            "title": "Useful automation experience",
+            "statement": "The candidate demonstrates practical Python automation and testing support.",
+            "severity": 1,
+            "evidence": [
+              {
+                "source": "interview",
+                "section": "Source",
+                "quote": "Candidate: I helped the team save two hours each week by automating a report.",
+                "fact_id": "mock-evidence"
+              }
+            ],
+            "confidence": 0.76
+          },
+          {
+            "finding_id": "technical-2",
+            "type": "concern",
+            "title": "Production RTL gap",
+            "statement": "The interview explicitly states that the candidate has not yet designed production RTL.",
+            "severity": 3,
+            "evidence": [
+              {
+                "source": "interview",
+                "section": "Source",
+                "quote": "Candidate: I have not designed production RTL yet, but I studied Verilog in college.",
+                "fact_id": "mock-evidence"
+              }
+            ],
+            "confidence": 0.95
+          }
+        ],
+        "key_risks": [
+          "No production RTL design evidence"
+        ],
+        "evidence_quality": 0.94
+      }
+    ],
+    [
+      "hr_culture",
+      {
+        "agent": "hr_culture",
+        "role_fit": 60,
+        "confidence": 0.78,
+        "recommendation": "more_info",
+        "basis_finding_ids": [
+          "hr-1",
+          "hr-2"
+        ],
+        "findings": [
+          {
+            "finding_id": "hr-1",
+            "type": "strength",
+            "title": "Team contribution",
+            "statement": "The candidate gives a concrete example of helping the team automate recurring reporting work.",
+            "severity": 1,
+            "evidence": [
+              {
+                "source": "interview",
+                "section": "Source",
+                "quote": "Candidate: I helped the team save two hours each week by automating a report.",
+                "fact_id": "mock-evidence"
+              }
+            ],
+            "confidence": 0.8
+          },
+          {
+            "finding_id": "hr-2",
+            "type": "neutral",
+            "title": "Limited behavioral evidence",
+            "statement": "The supplied interview contains only limited evidence for conflict-resolution or failure-handling behavior.",
+            "severity": 2,
+            "evidence": [
+              {
+                "source": "interview",
+                "section": "Source",
+                "quote": "Candidate: I helped the team save two hours each week by automating a report.",
+                "fact_id": "mock-evidence"
+              }
+            ],
+            "confidence": 0.7
+          }
+        ],
+        "key_risks": [],
+        "evidence_quality": 0.82
+      }
+    ],
+    [
+      "hiring_manager",
+      {
+        "agent": "hiring_manager",
+        "role_fit": 45,
+        "confidence": 0.87,
+        "recommendation": "no_hire",
+        "basis_finding_ids": [
+          "hm-1",
+          "hm-2"
+        ],
+        "findings": [
+          {
+            "finding_id": "hm-1",
+            "type": "concern",
+            "title": "Role-critical RTL requirement unmet",
+            "statement": "The candidate acknowledges that production RTL design has not yet been performed.",
+            "severity": 3,
+            "evidence": [
+              {
+                "source": "interview",
+                "section": "Source",
+                "quote": "Candidate: I have not designed production RTL yet, but I studied Verilog in college.",
+                "fact_id": "mock-evidence"
+              }
+            ],
+            "confidence": 0.96
+          },
+          {
+            "finding_id": "hm-2",
+            "type": "strength",
+            "title": "Useful automation contribution",
+            "statement": "The candidate reports saving the team two hours per week through automation.",
+            "severity": 1,
+            "evidence": [
+              {
+                "source": "interview",
+                "section": "Source",
+                "quote": "Candidate: I helped the team save two hours each week by automating a report.",
+                "fact_id": "mock-evidence"
+              }
+            ],
+            "confidence": 0.84
+          }
+        ],
+        "key_risks": [
+          "Mismatch with core role requirement"
+        ],
+        "evidence_quality": 0.93
+      }
+    ],
+    [
+      "skeptic",
+      {
+        "agent": "skeptic",
+        "role_fit": 38,
+        "confidence": 0.9,
+        "recommendation": "no_hire",
+        "basis_finding_ids": [
+          "skeptic-1"
+        ],
+        "findings": [
+          {
+            "finding_id": "skeptic-1",
+            "type": "concern",
+            "title": "Core-skill evidence gap",
+            "statement": "The candidate explicitly says production RTL has not yet been designed, while RTL is a required role skill.",
+            "severity": 3,
+            "evidence": [
+              {
+                "source": "interview",
+                "section": "Source",
+                "quote": "Candidate: I have not designed production RTL yet, but I studied Verilog in college.",
+                "fact_id": "mock-evidence"
+              }
+            ],
+            "confidence": 0.97
+          },
+          {
+            "finding_id": "skeptic-2",
+            "type": "strength",
+            "title": "Automation claim is concrete",
+            "statement": "The reported two-hour weekly saving is a specific contribution rather than a vague statement.",
+            "severity": 1,
+            "evidence": [
+              {
+                "source": "interview",
+                "section": "Source",
+                "quote": "Candidate: I helped the team save two hours each week by automating a report.",
+                "fact_id": "mock-evidence"
+              }
+            ],
+            "confidence": 0.82
+          }
+        ],
+        "key_risks": [
+          "Core-skill gap"
+        ],
+        "evidence_quality": 0.94
+      }
+    ]
+  ],
+  "debate": {
+    "rounds": [
+      [
+        {
+          "round_no": 1,
+          "speaker": "technical",
+          "responds_to": "skeptic",
+          "cited_findings": [
+            "skeptic-1"
+          ],
+          "position_before": "no_hire",
+          "position_after": "no_hire",
+          "argument": "The absence of production RTL design is explicit and directly conflicts with a required role skill.",
+          "evidence": [
+            {
+              "source": "interview",
+              "section": "Source",
+              "quote": "Candidate: I have not designed production RTL yet, but I studied Verilog in college.",
+              "fact_id": "mock-evidence"
+            }
+          ],
+          "position_changed": false,
+          "change_reason": null
+        },
+        {
+          "round_no": 1,
+          "speaker": "skeptic",
+          "responds_to": "technical",
+          "cited_findings": [
+            "technical-2"
+          ],
+          "position_before": "no_hire",
+          "position_after": "no_hire",
+          "argument": "I agree the core-skill gap is decisive unless the role requirement is relaxed.",
+          "evidence": [
+            {
+              "source": "interview",
+              "section": "Source",
+              "quote": "Candidate: I have not designed production RTL yet, but I studied Verilog in college.",
+              "fact_id": "mock-evidence"
+            }
+          ],
+          "position_changed": false,
+          "change_reason": null
+        },
+        {
+          "round_no": 1,
+          "speaker": "hr_culture",
+          "responds_to": "skeptic",
+          "cited_findings": [
+            "skeptic-1"
+          ],
+          "position_before": "more_info",
+          "position_after": "more_info",
+          "argument": "The technical gap is real; I would want one more behavioral interview before a final rejection.",
+          "evidence": [
+            {
+              "source": "interview",
+              "section": "Source",
+              "quote": "Candidate: I helped the team save two hours each week by automating a report.",
+              "fact_id": "mock-evidence"
+            }
+          ],
+          "position_changed": false,
+          "change_reason": null
+        },
+        {
+          "round_no": 1,
+          "speaker": "hiring_manager",
+          "responds_to": "hr_culture",
+          "cited_findings": [
+            "hr-1"
+          ],
+          "position_before": "no_hire",
+          "position_after": "no_hire",
+          "argument": "The role's core RTL requirement is not met, despite useful automation experience.",
+          "evidence": [
+            {
+              "source": "interview",
+              "section": "Source",
+              "quote": "Candidate: I have not designed production RTL yet, but I studied Verilog in college.",
+              "fact_id": "mock-evidence"
+            }
+          ],
+          "position_changed": false,
+          "change_reason": null
+        }
+      ],
+      [
+        {
+          "round_no": 2,
+          "speaker": "hiring_manager",
+          "responds_to": "technical",
+          "cited_findings": [
+            "technical-2"
+          ],
+          "position_before": "no_hire",
+          "position_after": "no_hire",
+          "argument": "The explicit lack of production RTL confirms the mismatch with the target role.",
+          "evidence": [
+            {
+              "source": "interview",
+              "section": "Source",
+              "quote": "Candidate: I have not designed production RTL yet, but I studied Verilog in college.",
+              "fact_id": "mock-evidence"
+            }
+          ],
+          "position_changed": false,
+          "change_reason": null
+        },
+        {
+          "round_no": 2,
+          "speaker": "hr_culture",
+          "responds_to": "hiring_manager",
+          "cited_findings": [
+            "hm-1"
+          ],
+          "position_before": "more_info",
+          "position_after": "no_hire",
+          "argument": "The role requirement is specific enough that I am moving from MORE_INFO to NO_HIRE.",
+          "evidence": [
+            {
+              "source": "interview",
+              "section": "Source",
+              "quote": "Candidate: I have not designed production RTL yet, but I studied Verilog in college.",
+              "fact_id": "mock-evidence"
+            }
+          ],
+          "position_changed": true,
+          "change_reason": "The hiring-manager finding tied the missing skill directly to a non-negotiable role requirement."
+        },
+        {
+          "round_no": 2,
+          "speaker": "technical",
+          "responds_to": "hiring_manager",
+          "cited_findings": [
+            "hm-1"
+          ],
+          "position_before": "no_hire",
+          "position_after": "no_hire",
+          "argument": "There is no evidence of production RTL design to offset the stated gap.",
+          "evidence": [
+            {
+              "source": "interview",
+              "section": "Source",
+              "quote": "Candidate: I have not designed production RTL yet, but I studied Verilog in college.",
+              "fact_id": "mock-evidence"
+            }
+          ],
+          "position_changed": false,
+          "change_reason": null
+        },
+        {
+          "round_no": 2,
+          "speaker": "skeptic",
+          "responds_to": "technical",
+          "cited_findings": [
+            "technical-2"
+          ],
+          "position_before": "no_hire",
+          "position_after": "no_hire",
+          "argument": "The explicit admission makes this a capability gap rather than an unverified claim.",
+          "evidence": [
+            {
+              "source": "interview",
+              "section": "Source",
+              "quote": "Candidate: I have not designed production RTL yet, but I studied Verilog in college.",
+              "fact_id": "mock-evidence"
+            }
+          ],
+          "position_changed": false,
+          "change_reason": null
+        }
+      ],
+      [
+        {
+          "round_no": 3,
+          "speaker": "technical",
+          "responds_to": "hiring_manager",
+          "cited_findings": [
+            "hm-1"
+          ],
+          "position_before": "no_hire",
+          "position_after": "no_hire",
+          "argument": "My final position remains NO_HIRE because the core required skill is absent from the evidence.",
+          "evidence": [
+            {
+              "source": "interview",
+              "section": "Source",
+              "quote": "Candidate: I have not designed production RTL yet, but I studied Verilog in college.",
+              "fact_id": "mock-evidence"
+            }
+          ],
+          "position_changed": false,
+          "change_reason": null
+        },
+        {
+          "round_no": 3,
+          "speaker": "skeptic",
+          "responds_to": "technical",
+          "cited_findings": [
+            "technical-2"
+          ],
+          "position_before": "no_hire",
+          "position_after": "no_hire",
+          "argument": "The evidence is consistent across resume context and interview, so the concern remains unresolved in the candidate's favor.",
+          "evidence": [
+            {
+              "source": "interview",
+              "section": "Source",
+              "quote": "Candidate: I have not designed production RTL yet, but I studied Verilog in college.",
+              "fact_id": "mock-evidence"
+            }
+          ],
+          "position_changed": false,
+          "change_reason": null
+        },
+        {
+          "round_no": 3,
+          "speaker": "hiring_manager",
+          "responds_to": "hr_culture",
+          "cited_findings": [
+            "hr-1"
+          ],
+          "position_before": "no_hire",
+          "position_after": "no_hire",
+          "argument": "Useful automation does not substitute for the required production RTL capability.",
+          "evidence": [
+            {
+              "source": "interview",
+              "section": "Source",
+              "quote": "Candidate: I helped the team save two hours each week by automating a report.",
+              "fact_id": "mock-evidence"
+            }
+          ],
+          "position_changed": false,
+          "change_reason": null
+        },
+        {
+          "round_no": 3,
+          "speaker": "hr_culture",
+          "responds_to": "hiring_manager",
+          "cited_findings": [
+            "hm-1"
+          ],
+          "position_before": "no_hire",
+          "position_after": "no_hire",
+          "argument": "After considering the role requirement, I retain NO_HIRE.",
+          "evidence": [
+            {
+              "source": "interview",
+              "section": "Source",
+              "quote": "Candidate: I have not designed production RTL yet, but I studied Verilog in college.",
+              "fact_id": "mock-evidence"
+            }
+          ],
+          "position_changed": false,
+          "change_reason": null
+        }
+      ]
+    ],
+    "disagreement_summary": [],
+    "changed_positions": [
+      "hr_culture: more_info -> no_hire; reason: The hiring-manager finding tied the missing skill directly to a non-negotiable role requirement."
+    ]
+  },
+  "decision": {
+    "recommendation": "no_hire",
+    "confidence_percent": 66,
+    "decision_basis": [
+      "Decision uses evidence quality, source directness, role fit, and non-linear decision gates rather than score averaging.",
+      "Interview-sourced evidence is treated as more direct than resume-only assertions for disputed claims.",
+      "Debate outcomes and opinion changes affect decision stability but do not replace source evidence.",
+      "Material evidence gaps outweigh demonstrated role fit."
+    ],
+    "evidence_hierarchy": [
+      "Direct interview evidence",
+      "Corroborated facts",
+      "Single-source resume claims",
+      "Vague self-description"
+    ],
+    "weighted_support": [
+      [
+        "technical",
+        0.356
+      ],
+      [
+        "hr_culture",
+        0.345
+      ],
+      [
+        "hiring_manager",
+        0.401
+      ],
+      [
+        "skeptic",
+        0.321
+      ]
+    ],
+    "unresolved_disagreements": [],
+    "escalation_reasons": [],
+    "role_fit": "Material gaps outweigh current evidence of fit."
+  }
+}

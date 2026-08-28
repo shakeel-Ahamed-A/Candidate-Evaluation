@@ -1,0 +1,19 @@
+{
+  "job_description": "sample/job_description.pdf",
+  "candidates": {
+    "A": {
+      "candidate_name": "Alex Menon",
+      "recommendation": "more_info",
+      "confidence_percent": 60,
+      "report": "sample/expected_output/Alex_Menon/report.md",
+      "evaluation_bundle": "sample/expected_output/Alex_Menon/evaluation_bundle.json"
+    },
+    "B": {
+      "candidate_name": "Priya Shah",
+      "recommendation": "no_hire",
+      "confidence_percent": 66,
+      "report": "sample/expected_output/Priya_Shah/report.md",
+      "evaluation_bundle": "sample/expected_output/Priya_Shah/evaluation_bundle.json"
+    }
+  }
+}

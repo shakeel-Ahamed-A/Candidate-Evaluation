@@ -1,0 +1,875 @@
+{
+  "profile": {
+    "profile_id": "profile-9fa476651d55635c2884",
+    "candidate_name": "Alex Menon",
+    "role_target": "Embedded Systems Engineer",
+    "role_profile": {
+      "title": "Embedded Systems Engineer",
+      "summary": "Build and validate embedded control firmware and digital logic for industrial products.",
+      "required_skills": [
+        "- C/C++ or Python",
+        "- Verilog or SystemVerilog / RTL fundamentals",
+        "- Debugging and test-driven engineering",
+        "- Linux and Git"
+      ],
+      "preferred_skills": [
+        "- MATLAB or LTspice",
+        "- CI/CD and observability tooling"
+      ],
+      "responsibilities": [
+        "- Design and validate digital control logic.",
+        "- Diagnose system failures using structured experiments.",
+        "- Collaborate with firmware, hardware, and test engineers.",
+        "- Document trade-offs and verification evidence."
+      ],
+      "constraints": [
+        "- Must contribute independently within the first 90 days.",
+        "- Role requires evidence of hands-on design depth."
+      ],
+      "evidence": [
+        {
+          "source": "job_description",
+          "section": "Required Skills",
+          "quote": "- C/C++ or Python",
+          "fact_id": "role-required-skills-1"
+        },
+        {
+          "source": "job_description",
+          "section": "Required Skills",
+          "quote": "- Verilog or SystemVerilog / RTL fundamentals",
+          "fact_id": "role-required-skills-2"
+        },
+        {
+          "source": "job_description",
+          "section": "Required Skills",
+          "quote": "- Debugging and test-driven engineering",
+          "fact_id": "role-required-skills-3"
+        },
+        {
+          "source": "job_description",
+          "section": "Required Skills",
+          "quote": "- Linux and Git",
+          "fact_id": "role-required-skills-4"
+        },
+        {
+          "source": "job_description",
+          "section": "Preferred Skills",
+          "quote": "- MATLAB or LTspice",
+          "fact_id": "role-preferred-skills-1"
+        },
+        {
+          "source": "job_description",
+          "section": "Preferred Skills",
+          "quote": "- CI/CD and observability tooling",
+          "fact_id": "role-preferred-skills-2"
+        },
+        {
+          "source": "job_description",
+          "section": "Responsibilities",
+          "quote": "- Design and validate digital control logic.",
+          "fact_id": "role-responsibilities-1"
+        },
+        {
+          "source": "job_description",
+          "section": "Responsibilities",
+          "quote": "- Diagnose system failures using structured experiments.",
+          "fact_id": "role-responsibilities-2"
+        },
+        {
+          "source": "job_description",
+          "section": "Responsibilities",
+          "quote": "- Collaborate with firmware, hardware, and test engineers.",
+          "fact_id": "role-responsibilities-3"
+        },
+        {
+          "source": "job_description",
+          "section": "Responsibilities",
+          "quote": "- Document trade-offs and verification evidence.",
+          "fact_id": "role-responsibilities-4"
+        },
+        {
+          "source": "job_description",
+          "section": "Constraints",
+          "quote": "- Must contribute independently within the first 90 days.",
+          "fact_id": "role-constraints-1"
+        },
+        {
+          "source": "job_description",
+          "section": "Constraints",
+          "quote": "- Role requires evidence of hands-on design depth.",
+          "fact_id": "role-constraints-2"
+        }
+      ]
+    },
+    "source_hashes": [
+      [
+        "resume",
+        "48c92ec68ebd4a9e5d173d4a0a9bd9ad0477e9bdc189a82d31c929785eac4d12"
+      ],
+      [
+        "interview",
+        "e1ff3ac24088ff702e2c79a4835e726ff51e0cde59c80f717a927e863d6b2453"
+      ],
+      [
+        "job_description",
+        "3a5f3cb239b7d50cae7a9aa53ee65afd2a68d70a7369902fd976749178fa3c66"
+      ]
+    ],
+    "source_lengths": [
+      [
+        "resume",
+        445
+      ],
+      [
+        "interview",
+        467
+      ],
+      [
+        "job_description",
+        683
+      ]
+    ],
+    "source_text": [
+      [
+        "resume",
+        "Alex Menon\nSenior Embedded Engineer\nSkills\nPython - Advanced\nVerilog - Proficient\nSystemVerilog - Working\nMATLAB - Working\nLTspice - Proficient\nDocker - Working\nGit - Advanced\nExperience\nABC Controls | Senior Embedded Engineer | Jan 2021 | Present\nXYZ Robotics | Embedded Engineer | Jun 2018 | Dec 2020\nEducation\nVIT Chennai | B.Tech | Electronics and Communication Engineering | 2018\nCertifications\nAWS Certified Cloud Practitioner (2024) - AWS"
+      ],
+      [
+        "interview",
+        "Interviewer: Describe a challenging problem you solved.\nCandidate: I designed the RTL architecture for the controller and implemented the interfaces in\nSystemVerilog.\nInterviewer: What measurable impact did you have?\nCandidate: I reduced end-to-end latency by 40% after changing the buffering strategy.\nInterviewer: Tell me about a failure.\nCandidate: We had an outage caused by a memory leak. I identified the issue and led the fix,\nthen added monitoring and alerts."
+      ],
+      [
+        "job_description",
+        "Role: Embedded Systems Engineer\nSummary: Build and validate embedded control firmware and digital logic for industrial products.\nRequired Skills\n- C/C++ or Python\n- Verilog or SystemVerilog / RTL fundamentals\n- Debugging and test-driven engineering\n- Linux and Git\nPreferred Skills\n- MATLAB or LTspice\n- CI/CD and observability tooling\nResponsibilities\n- Design and validate digital control logic.\n- Diagnose system failures using structured experiments.\n- Collaborate with firmware, hardware, and test engineers.\n- Document trade-offs and verification evidence.\nConstraints\n- Must contribute independently within the first 90 days.\n- Role requires evidence of hands-on design depth."
+      ]
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "proficiency": "advanced",
+        "years": null,
+        "evidence": [
+          {
+            "source": "resume",
+            "section": "Skills",
+            "quote": "Python - Advanced",
+            "fact_id": "skill-1"
+          }
+        ]
+      },
+      {
+        "name": "Verilog",
+        "proficiency": "proficient",
+        "years": null,
+        "evidence": [
+          {
+            "source": "resume",
+            "section": "Skills",
+            "quote": "Verilog - Proficient",
+            "fact_id": "skill-2"
+          }
+        ]
+      },
+      {
+        "name": "SystemVerilog",
+        "proficiency": "working",
+        "years": null,
+        "evidence": [
+          {
+            "source": "resume",
+            "section": "Skills",
+            "quote": "SystemVerilog - Working",
+            "fact_id": "skill-3"
+          }
+        ]
+      },
+      {
+        "name": "MATLAB",
+        "proficiency": "working",
+        "years": null,
+        "evidence": [
+          {
+            "source": "resume",
+            "section": "Skills",
+            "quote": "MATLAB - Working",
+            "fact_id": "skill-4"
+          }
+        ]
+      },
+      {
+        "name": "LTspice",
+        "proficiency": "proficient",
+        "years": null,
+        "evidence": [
+          {
+            "source": "resume",
+            "section": "Skills",
+            "quote": "LTspice - Proficient",
+            "fact_id": "skill-5"
+          }
+        ]
+      },
+      {
+        "name": "Docker",
+        "proficiency": "working",
+        "years": null,
+        "evidence": [
+          {
+            "source": "resume",
+            "section": "Skills",
+            "quote": "Docker - Working",
+            "fact_id": "skill-6"
+          }
+        ]
+      },
+      {
+        "name": "Git",
+        "proficiency": "advanced",
+        "years": null,
+        "evidence": [
+          {
+            "source": "resume",
+            "section": "Skills",
+            "quote": "Git - Advanced",
+            "fact_id": "skill-7"
+          }
+        ]
+      },
+      {
+        "name": "AWS",
+        "proficiency": "unknown",
+        "years": null,
+        "evidence": [
+          {
+            "source": "resume",
+            "section": "Skills",
+            "quote": "AWS Certified Cloud Practitioner (2024) - AWS",
+            "fact_id": "skill-8"
+          }
+        ]
+      },
+      {
+        "name": "RTL",
+        "proficiency": "unknown",
+        "years": null,
+        "evidence": [
+          {
+            "source": "resume",
+            "section": "Skills",
+            "quote": "RTL",
+            "fact_id": "skill-9"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "organization": "ABC Controls",
+        "title": "Senior Embedded Engineer",
+        "start": "Jan 2021",
+        "end": "Present",
+        "responsibilities": [],
+        "achievements": [],
+        "evidence": [
+          {
+            "source": "resume",
+            "section": "Experience",
+            "quote": "ABC Controls | Senior Embedded Engineer | Jan 2021 | Present",
+            "fact_id": "exp-1"
+          }
+        ]
+      },
+      {
+        "organization": "XYZ Robotics",
+        "title": "Embedded Engineer",
+        "start": "Jun 2018",
+        "end": "Dec 2020",
+        "responsibilities": [],
+        "achievements": [],
+        "evidence": [
+          {
+            "source": "resume",
+            "section": "Experience",
+            "quote": "XYZ Robotics | Embedded Engineer | Jun 2018 | Dec 2020",
+            "fact_id": "exp-2"
+          }
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "VIT Chennai",
+        "degree": "B.Tech",
+        "field": "Electronics and Communication Engineering",
+        "year": 2018,
+        "evidence": [
+          {
+            "source": "resume",
+            "section": "Education",
+            "quote": "VIT Chennai | B.Tech | Electronics and Communication Engineering | 2018",
+            "fact_id": "edu-1"
+          }
+        ]
+      }
+    ],
+    "claims": [
+      {
+        "claim_id": "claim-1",
+        "category": "ownership",
+        "statement": "Candidate: I designed the RTL architecture for the controller and implemented the interfaces in",
+        "quantified_value": null,
+        "evidence": [
+          {
+            "source": "interview",
+            "section": "Interview",
+            "quote": "Candidate: I designed the RTL architecture for the controller and implemented the interfaces in",
+            "fact_id": "claim-1"
+          }
+        ]
+      },
+      {
+        "claim_id": "claim-2",
+        "category": "impact",
+        "statement": "Candidate: I reduced end-to-end latency by 40% after changing the buffering strategy.",
+        "quantified_value": null,
+        "evidence": [
+          {
+            "source": "interview",
+            "section": "Interview",
+            "quote": "Candidate: I reduced end-to-end latency by 40% after changing the buffering strategy.",
+            "fact_id": "claim-2"
+          }
+        ]
+      }
+    ],
+    "certifications": [
+      {
+        "name": "AWS Certified Cloud Practitioner",
+        "issuer": "AWS",
+        "year": 2024,
+        "evidence": [
+          {
+            "source": "resume",
+            "section": "Certifications",
+            "quote": "AWS Certified Cloud Practitioner (2024) - AWS",
+            "fact_id": "cert-1"
+          }
+        ]
+      }
+    ],
+    "metrics": []
+  },
+  "independent": [
+    [
+      "technical",
+      {
+        "agent": "technical",
+        "role_fit": 84,
+        "confidence": 0.86,
+        "recommendation": "more_info",
+        "basis_finding_ids": [
+          "technical-1",
+          "technical-2"
+        ],
+        "findings": [
+          {
+            "finding_id": "technical-1",
+            "type": "strength",
+            "title": "Relevant RTL implementation",
+            "statement": "The candidate cites direct RTL/SystemVerilog implementation work relevant to the target role.",
+            "severity": 1,
+            "evidence": [
+              {
+                "source": "interview",
+                "section": "Source",
+                "quote": "Candidate: I designed the RTL architecture for the controller and implemented the interfaces in",
+                "fact_id": "claim-1"
+              }
+            ],
+            "confidence": 0.86
+          },
+          {
+            "finding_id": "technical-2",
+            "type": "concern",
+            "title": "Architecture depth requires validation",
+            "statement": "The architecture-ownership statement is stronger than the available design-detail evidence.",
+            "severity": 4,
+            "evidence": [
+              {
+                "source": "interview",
+                "section": "Source",
+                "quote": "Candidate: I designed the RTL architecture for the controller and implemented the interfaces in",
+                "fact_id": "claim-1"
+              }
+            ],
+            "confidence": 0.84
+          }
+        ],
+        "key_risks": [
+          "Architecture depth"
+        ],
+        "evidence_quality": 0.88
+      }
+    ],
+    [
+      "hr_culture",
+      {
+        "agent": "hr_culture",
+        "role_fit": 89,
+        "confidence": 0.85,
+        "recommendation": "hire",
+        "basis_finding_ids": [
+          "hr-1",
+          "hr-2"
+        ],
+        "findings": [
+          {
+            "finding_id": "hr-1",
+            "type": "strength",
+            "title": "Accountability during failure",
+            "statement": "The candidate describes an outage and the corrective action, showing direct ownership of a difficult event.",
+            "severity": 1,
+            "evidence": [
+              {
+                "source": "interview",
+                "section": "Source",
+                "quote": "Candidate: We had an outage caused by a memory leak. I identified the issue and led the fix,",
+                "fact_id": "mock-evidence"
+              }
+            ],
+            "confidence": 0.9
+          },
+          {
+            "finding_id": "hr-2",
+            "type": "strength",
+            "title": "Concrete communication",
+            "statement": "The interview uses specific examples rather than abstract behavioral claims.",
+            "severity": 1,
+            "evidence": [
+              {
+                "source": "interview",
+                "section": "Source",
+                "quote": "Candidate: We had an outage caused by a memory leak. I identified the issue and led the fix,",
+                "fact_id": "mock-evidence"
+              }
+            ],
+            "confidence": 0.8
+          }
+        ],
+        "key_risks": [],
+        "evidence_quality": 0.9
+      }
+    ],
+    [
+      "hiring_manager",
+      {
+        "agent": "hiring_manager",
+        "role_fit": 87,
+        "confidence": 0.84,
+        "recommendation": "hire",
+        "basis_finding_ids": [
+          "hm-1",
+          "hm-2"
+        ],
+        "findings": [
+          {
+            "finding_id": "hm-1",
+            "type": "strength",
+            "title": "Measurable engineering impact",
+            "statement": "The candidate reports a measurable latency improvement relevant to system performance.",
+            "severity": 1,
+            "evidence": [
+              {
+                "source": "interview",
+                "section": "Source",
+                "quote": "Candidate: I reduced end-to-end latency by 40% after changing the buffering strategy.",
+                "fact_id": "claim-2"
+              }
+            ],
+            "confidence": 0.81
+          },
+          {
+            "finding_id": "hm-2",
+            "type": "concern",
+            "title": "Role-critical technical proof",
+            "statement": "The target role needs independent architecture depth that is not fully established by the interview.",
+            "severity": 4,
+            "evidence": [
+              {
+                "source": "interview",
+                "section": "Source",
+                "quote": "Candidate: I designed the RTL architecture for the controller and implemented the interfaces in",
+                "fact_id": "claim-1"
+              }
+            ],
+            "confidence": 0.83
+          }
+        ],
+        "key_risks": [
+          "Technical validation"
+        ],
+        "evidence_quality": 0.87
+      }
+    ],
+    [
+      "skeptic",
+      {
+        "agent": "skeptic",
+        "role_fit": 66,
+        "confidence": 0.91,
+        "recommendation": "more_info",
+        "basis_finding_ids": [
+          "skeptic-1",
+          "skeptic-2"
+        ],
+        "findings": [
+          {
+            "finding_id": "skeptic-1",
+            "type": "concern",
+            "title": "Quantified claim lacks method",
+            "statement": "The latency improvement is stated without enough measurement methodology or attribution detail.",
+            "severity": 3,
+            "evidence": [
+              {
+                "source": "interview",
+                "section": "Source",
+                "quote": "Candidate: I reduced end-to-end latency by 40% after changing the buffering strategy.",
+                "fact_id": "claim-2"
+              }
+            ],
+            "confidence": 0.9
+          },
+          {
+            "finding_id": "skeptic-2",
+            "type": "concern",
+            "title": "Ownership language needs corroboration",
+            "statement": "The architecture claim warrants direct verification because supporting detail is limited.",
+            "severity": 3,
+            "evidence": [
+              {
+                "source": "interview",
+                "section": "Source",
+                "quote": "Candidate: I designed the RTL architecture for the controller and implemented the interfaces in",
+                "fact_id": "claim-1"
+              }
+            ],
+            "confidence": 0.91
+          }
+        ],
+        "key_risks": [
+          "Unsupported claim"
+        ],
+        "evidence_quality": 0.92
+      }
+    ]
+  ],
+  "debate": {
+    "rounds": [
+      [
+        {
+          "round_no": 1,
+          "speaker": "technical",
+          "responds_to": "skeptic",
+          "cited_findings": [
+            "skeptic-2"
+          ],
+          "position_before": "more_info",
+          "position_after": "more_info",
+          "argument": "The implementation evidence is positive, but it still does not prove end-to-end architecture ownership.",
+          "evidence": [
+            {
+              "source": "interview",
+              "section": "Source",
+              "quote": "Candidate: I designed the RTL architecture for the controller and implemented the interfaces in",
+              "fact_id": "claim-1"
+            }
+          ],
+          "position_changed": false,
+          "change_reason": null
+        },
+        {
+          "round_no": 1,
+          "speaker": "skeptic",
+          "responds_to": "technical",
+          "cited_findings": [
+            "technical-1"
+          ],
+          "position_before": "more_info",
+          "position_after": "more_info",
+          "argument": "Hands-on RTL work is useful evidence, but architecture ownership remains insufficiently corroborated.",
+          "evidence": [
+            {
+              "source": "interview",
+              "section": "Source",
+              "quote": "Candidate: I designed the RTL architecture for the controller and implemented the interfaces in",
+              "fact_id": "claim-1"
+            }
+          ],
+          "position_changed": false,
+          "change_reason": null
+        },
+        {
+          "round_no": 1,
+          "speaker": "hr_culture",
+          "responds_to": "skeptic",
+          "cited_findings": [
+            "skeptic-1"
+          ],
+          "position_before": "hire",
+          "position_after": "hire",
+          "argument": "The quantified claim should be verified, but the interview also shows direct accountability during an outage.",
+          "evidence": [
+            {
+              "source": "interview",
+              "section": "Source",
+              "quote": "Candidate: We had an outage caused by a memory leak. I identified the issue and led the fix,",
+              "fact_id": "mock-evidence"
+            }
+          ],
+          "position_changed": false,
+          "change_reason": null
+        },
+        {
+          "round_no": 1,
+          "speaker": "hiring_manager",
+          "responds_to": "hr_culture",
+          "cited_findings": [
+            "hr-1"
+          ],
+          "position_before": "hire",
+          "position_after": "hire",
+          "argument": "Behavioral evidence supports continued consideration while technical depth is clarified.",
+          "evidence": [
+            {
+              "source": "interview",
+              "section": "Source",
+              "quote": "Candidate: We had an outage caused by a memory leak. I identified the issue and led the fix,",
+              "fact_id": "mock-evidence"
+            }
+          ],
+          "position_changed": false,
+          "change_reason": null
+        }
+      ],
+      [
+        {
+          "round_no": 2,
+          "speaker": "hiring_manager",
+          "responds_to": "technical",
+          "cited_findings": [
+            "technical-2"
+          ],
+          "position_before": "hire",
+          "position_after": "more_info",
+          "argument": "Because architecture depth is central to the role, the unresolved evidence changes my decision threshold.",
+          "evidence": [
+            {
+              "source": "interview",
+              "section": "Source",
+              "quote": "Candidate: I designed the RTL architecture for the controller and implemented the interfaces in",
+              "fact_id": "claim-1"
+            }
+          ],
+          "position_changed": true,
+          "change_reason": "The technical gap is directly tied to a role-critical requirement."
+        },
+        {
+          "round_no": 2,
+          "speaker": "hr_culture",
+          "responds_to": "hiring_manager",
+          "cited_findings": [
+            "hm-2"
+          ],
+          "position_before": "hire",
+          "position_after": "hire",
+          "argument": "I agree validation is needed, but accountability evidence remains favorable.",
+          "evidence": [
+            {
+              "source": "interview",
+              "section": "Source",
+              "quote": "Candidate: We had an outage caused by a memory leak. I identified the issue and led the fix,",
+              "fact_id": "mock-evidence"
+            }
+          ],
+          "position_changed": false,
+          "change_reason": null
+        },
+        {
+          "round_no": 2,
+          "speaker": "technical",
+          "responds_to": "hiring_manager",
+          "cited_findings": [
+            "hm-2"
+          ],
+          "position_before": "more_info",
+          "position_after": "more_info",
+          "argument": "The role-specific requirement reinforces that a design-depth exercise is the right next step.",
+          "evidence": [
+            {
+              "source": "interview",
+              "section": "Source",
+              "quote": "Candidate: I designed the RTL architecture for the controller and implemented the interfaces in",
+              "fact_id": "claim-1"
+            }
+          ],
+          "position_changed": false,
+          "change_reason": null
+        },
+        {
+          "round_no": 2,
+          "speaker": "skeptic",
+          "responds_to": "technical",
+          "cited_findings": [
+            "technical-2"
+          ],
+          "position_before": "more_info",
+          "position_after": "more_info",
+          "argument": "I agree the evidence gap is material without concluding that the claim is false.",
+          "evidence": [
+            {
+              "source": "interview",
+              "section": "Source",
+              "quote": "Candidate: I reduced end-to-end latency by 40% after changing the buffering strategy.",
+              "fact_id": "claim-2"
+            }
+          ],
+          "position_changed": false,
+          "change_reason": null
+        }
+      ],
+      [
+        {
+          "round_no": 3,
+          "speaker": "technical",
+          "responds_to": "hiring_manager",
+          "cited_findings": [
+            "hm-2"
+          ],
+          "position_before": "more_info",
+          "position_after": "more_info",
+          "argument": "I retain MORE_INFO because direct design-depth validation is still missing.",
+          "evidence": [
+            {
+              "source": "interview",
+              "section": "Source",
+              "quote": "Candidate: I designed the RTL architecture for the controller and implemented the interfaces in",
+              "fact_id": "claim-1"
+            }
+          ],
+          "position_changed": false,
+          "change_reason": null
+        },
+        {
+          "round_no": 3,
+          "speaker": "skeptic",
+          "responds_to": "technical",
+          "cited_findings": [
+            "technical-2"
+          ],
+          "position_before": "more_info",
+          "position_after": "more_info",
+          "argument": "The ownership and measurement questions remain unresolved, so rejection would be premature.",
+          "evidence": [
+            {
+              "source": "interview",
+              "section": "Source",
+              "quote": "Candidate: I reduced end-to-end latency by 40% after changing the buffering strategy.",
+              "fact_id": "claim-2"
+            }
+          ],
+          "position_changed": false,
+          "change_reason": null
+        },
+        {
+          "round_no": 3,
+          "speaker": "hiring_manager",
+          "responds_to": "technical",
+          "cited_findings": [
+            "technical-2"
+          ],
+          "position_before": "more_info",
+          "position_after": "more_info",
+          "argument": "I retain MORE_INFO because the technical gap remains role-critical.",
+          "evidence": [
+            {
+              "source": "interview",
+              "section": "Source",
+              "quote": "Candidate: I designed the RTL architecture for the controller and implemented the interfaces in",
+              "fact_id": "claim-1"
+            }
+          ],
+          "position_changed": false,
+          "change_reason": null
+        },
+        {
+          "round_no": 3,
+          "speaker": "hr_culture",
+          "responds_to": "hiring_manager",
+          "cited_findings": [
+            "hm-2"
+          ],
+          "position_before": "hire",
+          "position_after": "hire",
+          "argument": "The behavioral evidence remains favorable while technical validation is outstanding.",
+          "evidence": [
+            {
+              "source": "interview",
+              "section": "Source",
+              "quote": "Candidate: We had an outage caused by a memory leak. I identified the issue and led the fix,",
+              "fact_id": "mock-evidence"
+            }
+          ],
+          "position_changed": false,
+          "change_reason": null
+        }
+      ]
+    ],
+    "disagreement_summary": [
+      "Final debate positions remained divergent: hiring_manager=more_info, hr_culture=hire, skeptic=more_info, technical=more_info."
+    ],
+    "changed_positions": [
+      "hiring_manager: hire -> more_info; reason: The technical gap is directly tied to a role-critical requirement."
+    ]
+  },
+  "decision": {
+    "recommendation": "more_info",
+    "confidence_percent": 60,
+    "decision_basis": [
+      "Decision uses evidence quality, source directness, role fit, and non-linear decision gates rather than score averaging.",
+      "Interview-sourced evidence is treated as more direct than resume-only assertions for disputed claims.",
+      "Debate outcomes and opinion changes affect decision stability but do not replace source evidence.",
+      "More information is required because a material evidence gap or disagreement remains unresolved."
+    ],
+    "evidence_hierarchy": [
+      "Direct interview evidence",
+      "Corroborated facts",
+      "Single-source resume claims",
+      "Vague self-description"
+    ],
+    "weighted_support": [
+      [
+        "technical",
+        0.636
+      ],
+      [
+        "hr_culture",
+        0.613
+      ],
+      [
+        "hiring_manager",
+        0.699
+      ],
+      [
+        "skeptic",
+        0.553
+      ]
+    ],
+    "unresolved_disagreements": [
+      "Final debate positions remained divergent: hiring_manager=more_info, hr_culture=hire, skeptic=more_info, technical=more_info."
+    ],
+    "escalation_reasons": [
+      "A material role-relevant concern survived debate and triggered an opinion change."
+    ],
+    "role_fit": "Promising but conditional on targeted validation."
+  }
+}
